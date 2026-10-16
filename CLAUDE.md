@@ -1,0 +1,2 @@
+Always use astro, tailwind-4-docs, vercel-react-best-practices, rest-api-design, whatsapp-automation and web-design-guidelines for this project. 
+Always follow the design language described in DESIGN.md, and use the components from tailwind-4-docs to create a consistent look and feel across all pages. 
